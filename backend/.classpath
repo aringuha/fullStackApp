@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/broke/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-swagger2/2.6.1/73c3a70ec0b10b61c8eb9ef1659131cd78dbbd82/springfox-swagger2-2.6.1.jar" sourcepath="C:/Users/broke/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-swagger2/2.6.1/ea18222cb4a669f9bdde1b3efb2ad06705d293c1/springfox-swagger2-2.6.1-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/broke/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-spring-web/2.6.1/6478ed7e49755b652aac907d42a735349056a6a/springfox-spring-web-2.6.1.jar" sourcepath="C:/Users/broke/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-spring-web/2.6.1/3322c13436cc726184998808e35d474acfa043fd/springfox-spring-web-2.6.1-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/broke/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-spi/2.6.1/972ae720c6a9a5f31be2744972b435cc39166174/springfox-spi-2.6.1.jar" sourcepath="C:/Users/broke/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-spi/2.6.1/1547fb2a632a46d3890233266222e50966c8d9b0/springfox-spi-2.6.1-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/broke/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-core/2.6.1/5c502e6b9d50d34096077eacc384cd00f63710e1/springfox-core-2.6.1.jar" sourcepath="C:/Users/broke/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-core/2.6.1/6267a96afb6610db68821fa5886277422fdc107f/springfox-core-2.6.1-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/broke/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.2/8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5/commons-collections-3.2.2.jar" sourcepath="C:/Users/broke/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.2/78c50ebda5784937ca1615fc0e1d0cb35857d572/commons-collections-3.2.2-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/broke/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-collections4/4.1/a4cf4688fe1c7e3a63aa636cc96d013af537768e/commons-collections4-4.1.jar" sourcepath="C:/Users/broke/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-collections4/4.1/f305f3aa45a3b208c013ef92328f8f230329f20e/commons-collections4-4.1-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/broke/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar" sourcepath="C:/Users/broke/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/ad97fe8faaf01a3d3faacecd58e8fa6e78a973ca/guava-18.0-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

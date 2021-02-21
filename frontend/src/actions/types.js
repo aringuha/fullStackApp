@@ -1,0 +1,4 @@
+export const GET_ERRORS = "GET_ERRORS";
+export const GET_SUPPLIERS = "GET_SUPPLIERS";
+export const DELETE_SUPPLIER = "DELETE_SUPPLIER";
+export const GET_SUPPLIER_BY_ID = "GET_SUPPLIER_BY_ID";
